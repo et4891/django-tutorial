@@ -1,4 +1,8 @@
 #ignore JetBrain workstation files
 .idea
 
+#ignore all pyc format files
+*.pyc
 */*.pyc
+
+#superuse:et:djangoadmin
