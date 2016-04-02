@@ -1,2 +1,4 @@
 #ignore JetBrain workstation files
 .idea
+
+*/*.pyc
